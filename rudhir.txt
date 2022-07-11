@@ -1,0 +1,21 @@
+I am Rudhir and I am a fullstack developer.
+
+How to push?
+
+1. Add
+git add <file-name>
+git add b.txt
+
+git add . -----------> All the files.
+
+2. Commit Your code
+git Commit -m/-am "Message"
+
+a.txt
+b.txt
+c.txt
+
+when you want to commit all the files use -am
+a means all
+
+when you do not want to commit all the files use -m
